@@ -16,3 +16,5 @@ La **Weather App** es una aplicación web simple que permite a los usuarios obte
 1. Clona este repositorio:
 2. Ejecuta el archivo Index.HTML.
 
+https://openweathermap.org/
+
